@@ -1,0 +1,93 @@
+[
+    {
+        "__sig__": {
+            "first_name": "Jane",
+            "last_name": "Doe",
+            "company": "ABC Company",
+            "position": "Sales & Marketing Director",
+            "phone": "(800) 555-1133",
+            "email": "jane.doe@example.com",
+            "website": "www.example.com"
+        }
+    },
+    {
+        "__sig__": {
+            "first_name": "Tom",
+            "email": "tom@example.com"
+        }
+    },
+    {
+        "__sig__": {
+            "first_name": "\u0411\u043e\u0433\u0434\u0430\u043d\u0430",
+            "last_name": "\u041d\u0456\u043a\u0456\u0442\u0447\u0435\u043d\u043a\u043e",
+            "position": "NLP Engineer",
+            "company": "XYZ Ltd.",
+            "phone": "(555) 123-4567",
+            "email": "jane.doe@xyz.com",
+            "website": "www.xyz.com"
+        }
+    },
+    {
+        "__sig__": {
+            "first_name": "Sarah",
+            "last_name": "Lee",
+            "position": "Product Manager",
+            "company": "Beta Inc.",
+            "phone": "(111) 222-3333, (444) 555-6666, (777) 888-9999",
+            "email": "sarah.lee@beta.com"
+        }
+    },
+    {
+        "__sig__": {
+            "first_name": "David",
+            "last_name": "Green",
+            "position": "HR Manager",
+            "company": "Gamma Ltd.",
+            "email": "david.green@gammaltd.com",
+            "linkedin": "linkedin.com/in/davidgreen",
+            "twitter": "@davidgreen"
+        }
+    },
+    {
+        "__sig__": {
+            "first_name": "Rebecca",
+            "last_name": "Adams",
+            "position": "Director of Research",
+            "company": "Epsilon Technologies",
+            "phone": "(333) 777-8888",
+            "email": "rebecca.adams@epsilon.com"
+        }
+    },
+    {
+        "__sig__": {
+            "first_name": "Anna",
+            "last_name": "M\u00fcller",
+            "position": "Projektleiterin",
+            "company": "Theta GmbH",
+            "phone": "+49 89 1234567",
+            "email": "anna.mueller@thetagmbh.de"
+        }
+    },
+    {
+        "__sig__": {
+            "first_name": "Robert",
+            "last_name": "Taylor",
+            "position": "CEO",
+            "company": "Omega Medical",
+            "phone": "(555) 123-4567",
+            "email": "rtaylor@omegamed.com",
+            "website": "www.omegamed.com"
+        }
+    },
+    {
+        "__sig__": {
+            "first_name": "Michael",
+            "last_name": "Brown",
+            "position": "VP of Engineering",
+            "company": "Acme Corp.",
+            "email": "michael.brown@acmecorp.com",
+            "phone": "(987) 654-3210, (123) 456-7890",
+            "skype": "michael.brown.acme"
+        }
+    }
+]
